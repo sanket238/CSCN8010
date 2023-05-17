@@ -1,0 +1,5 @@
+# latest versions as of 2023-05-17
+matplotlib==3.7.1  # visualizations
+scikit-learn==1.2.2  # ML library
+pandas==2.0.1  # data structures library
+ipykernel==6.23.1  # kernel for Jupyter notebooks
