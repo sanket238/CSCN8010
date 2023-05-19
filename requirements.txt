@@ -4,4 +4,5 @@ seaborn==0.12.2  # visualizations
 plotly==5.14.1  # visualizations
 scikit-learn==1.2.2  # ML library
 pandas==2.0.1  # data structures library
+nbformat==5.8.0  # Jupyter notebook format, required for Plotly in VS Code
 ipykernel==6.23.1  # kernel for Jupyter notebooks
