@@ -12,4 +12,4 @@ Thie files in this folder demonstrates:
 
 ![image](../../images/github_pages/enable_github_pages.jpg)
 
-2. The public URL is: `GITHUB-USER-NAME.github.io/REPOSITORY-NAME`, and the landing page is `index.html`. NOte that you can you set your own domain if you own one, and this can be set via the repository's settings. 
+2. The public URL is: `GITHUB-USER-NAME.github.io/REPOSITORY-NAME`, and the landing page is `index.html`. For instance: https://conestoga-aaiml-2023-spring.github.io/CSCN8010/
