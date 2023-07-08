@@ -5,3 +5,4 @@ ipykernel==6.22.0  # needed to run jupyter notebooks
 tensorboard==2.12.3
 matplotlib==3.7.1
 nbconvert==7.3.1  # needed for converting ipynb to other formats such as python, html and pdf 
+tensorflow-datasets==4.9.2  # needed for loading the flowers dataset for image localization localization 
