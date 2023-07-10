@@ -7,3 +7,4 @@ nbconvert==7.3.1  # needed for converting ipynb to other formats such as python,
 tensorflow-datasets==4.9.2  # needed for loading the flowers dataset for image localization localization 
 keras-cv==0.5.1  # needed for the IoU metric over bounding boxes
 ipywidgets==8.0.7  # needed to have IProgress, that is used by tensorflow-datqasets and keras-cv (for the progress bar)
+scikit-learn==1.3.0  # needed for tSNE calculation
