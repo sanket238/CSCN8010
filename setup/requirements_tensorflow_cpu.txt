@@ -8,3 +8,4 @@ tensorflow-datasets==4.9.2  # needed for loading the flowers dataset for image l
 keras-cv==0.5.1  # needed for the IoU metric over bounding boxes
 ipywidgets==8.0.7  # needed to have IProgress, that is used by tensorflow-datasets and keras-cv (for the progress bar)
 scikit-learn==1.3.0  # needed for tSNE calculation
+opencv-python==4.8.0.74  # needed for plot_bounding_box_gallery of kerascv (part of a KerasCV tutorial for object detection).
